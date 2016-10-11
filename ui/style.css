@@ -27,4 +27,5 @@ body {
 }
 .list {
     margin:2px;
+    border: 2px blue;
 }
