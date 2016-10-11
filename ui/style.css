@@ -27,5 +27,5 @@ body {
 }
 .list {
     margin:2px;
-    border: 2px blue;
+    border: 2px solid blue;
 }
