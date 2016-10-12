@@ -28,8 +28,20 @@ a:link{
     color:black;
     text-decoration:none;
 }
-.btn {
+.btncat {
     background-image: url("data:image/jpg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA1AIkDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABQACAwQGAQcI/8QANxAAAQMCBAIGCAUFAAAAAAAAAQACAwQRBRIhMQYiExRBUWFxBxUygZGhsdEjQlJUclNikpPB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDBAAF/8QAIBEAAgIDAAEFAAAAAAAAAAAAAAECEQMSITETIjJBUf/aAAwDAQACEQMRAD8A+goynAqKM6J4KxGuh91HlBfdduk32lwQhT6BWWqtBsrAVokWSArhKbdK6cU7dNJTJJo4/bka3zKrRYhSTSZIqiN7+5rrpdl+jKLLJWS9I8PT4FIy25Wse5rBzHVUK8w1UbopmNcw7gpMq2jQ2KWskzx70YvfT19RBqGyRn5Lc4BIbyg7gqOHhqOgx1lZRm0DgQ6P9JTqFvV8RmYdA4rJji4cZsyyWRtoPE6KvKVLm5VXkN1pMpXmOirZvAKac72Kr+8oBNHbKE0O70J9cxOG9k5uKwW3U3IokFMy7GbuQo4rB3qxSVbJXciGwdQ/DsrDUPhlNgrTJrbq8ZIzuJYWZ4rkq8OhNXRyva0mzmbi/ktEJghHF0l+H6rKwvs25AGtroZacGNidTR4/jnF9Q17mSvdn2drfL4IBVcX1AoKynopX0s7G/hytd7ZtrsgpfScQYhijaI1EZo5cs0UrbE/pI120KzFBitLXzzU1PTVbZIDle94AD7G1xqvO1l5Z7EZQ4ke8+hzinFcdwhsWKyGaaJpaZT2kG3x0+a3T5i1/MbFeVeiuqbHNII4zGGDm0tcleiVtSLggrRCdxMWeK9R0gnHUAu3QzEm9HUtmZsVS67lJN0QDutYcXb2TN2iaVMeau7RY9ihfPc7oWZy02TenuipA0CL5L9qguO9Vem8UulPd8k2wNQwMIhA2XfVEJ8ERzAjVIeBUaHsGnCIlbo6QQGzVZuU6M8y6jmy1FoArDXDtUUYBClDQrRTRF0Ou0rj2texzXAFpFiD2rhb3JpDk3QHnvFPCjqON78Fp48spu7NpbXVZGowmnp3sD6aESNOmm33Xsle5stOWMkYXA3ve9lj8Ro6R7sznuMo7QLLPkxL6NOLNLwwNhMYgzOYxrSdTYWuppq+zbudoEydzII3WeCbIfTYFieLSRi7aSn/ADPebk+QU6aVIfjdsdNirBoHak2R/CsYEWGSHKHi4uCVHjnCmHUHDlRK2bNNBGXmW+p9yyuC1lLJhzo2VLXSFlyCdUalF9O9s1w0TsUpnu54njycCpGVVE7d8jfNt/oVjhLz2EzmG+zgCrbHzAcskTvMEfdKpsbRGta6mf7NTH7wR9QnZIf3EP8AsCyraiZu8Id/B4/7ZO60/wDoS/Fv3VFMRwPT2ONk8FJJOSO3KdH7SSS44vRjlupmlJJWRFnUE4wlqIeH6s0c3QzEAB5be1/C4SSXS8MMfkjzCKpxeCocevwuPLb8Ajs/mrOJOxCVjCK5rHHcti3+JSSWJt0bqVg+ro6h7WmWtkeWnNo0C6MYRjFQ6RschzC9t/ukkl2dnNKgnxKelwSoY8DJKwtPkVgcL4UwunIqYocszBykE6JJIzbs6CpBUSyN0c5sg/vaCpYjAbB9NHr2su36JJJIsZrhfiwyKduaKSWPwJzLvqc/uXf4BJJWSVEXJpn/2Q==");
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn {
+    background-color: green;
     border: none;
     color: white;
     padding: 15px 32px;
